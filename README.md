@@ -1,9 +1,11 @@
-Etapas para a construção do Projeto:
-- Importância e Aplicação do Python
+# Curso Python
 
-- Projeto que vamos Construir
+## Etapas para a construção do Projeto:
+### - Importância e Aplicação do Python
 
-- Lógica de programação do Projeto:
+### - Projeto que vamos Construir
+
+### - Lógica de programação do Projeto:
     - Importar a base de dados
     - Visualizar a base de dados
     - Faturamento por loja
@@ -12,25 +14,25 @@ Etapas para a construção do Projeto:
     - Enviar um email com o relatório
 
 
-- Bibliotecas: instalaçôes e importações
+### - Bibliotecas: instalaçôes e importações
     - import pandas as pd
     - import pywin32 as win32
     - instalar -- pip install openpyxl
     - instalar -- pip install pywin32
 
-- Ajustes de Visualizações de Dados do pandas
+### - Ajustes de Visualizações de Dados do pandas
 
-- Métodos de filtro e agrupamento do pandas
+### - Métodos de filtro e agrupamento do pandas
 
-- Mais Indicadores: Quantidade de Produtos
+### - Mais Indicadores: Quantidade de Produtos
 
-- Ticket Médio por Produto em cada Loja
+### - Ticket Médio por Produto em cada Loja
 
-- Criando E-mail com o Python Automaticamente
+### - Criando E-mail com o Python Automaticamente
 
-- Formatações de E-mail com o python
+### - Formatações de E-mail com o python
 
-- Ajustes Finaisno Projeto
+### - Ajustes Finaisno Projeto
 
 ## Exemplos/ Obs:
 - Ex: [['','']] para filtrar as colunas
